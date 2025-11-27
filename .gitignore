@@ -1,5 +1,25 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
-.venv/
-.env
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+*.json
+*.csv
+*.xlsx
+
+# Logs
+*.log
